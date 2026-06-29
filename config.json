@@ -1,0 +1,8 @@
+{
+  "initial_bot_message": "Chào bạn, tôi là AquaBot. Tôi có thể giúp bạn tìm hiểu thông tin về các sản phẩm, phụ kiện cá cảnh.",
+  "shop_name": "AquaShop",
+  "shop_address": "Tổ 311, đường 112 Trần Hưng Đạo, Phường 67, TP.Vũng Tàu, Việt Nam",
+  "hotline": "0372792848",
+  "functions": ["giới thiệu cửa hàng", "giới thiệu sản phẩm", "giải đáp câu hỏi về sản phẩm thủy sinh", "hỗ trợ đặt cọc trước", "hỗ trợ đặt hàng", "hỗ trợ thanh toán", "trả lời câu hỏi về sản phẩm thủy sinh"],
+  "out_of_scope_message": "Tôi đang không hỗ trợ chức năng này. Xin liên hệ nhân viên cửa hàng qua hotline 0372792848 để được trợ giúp."
+}
